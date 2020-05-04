@@ -8,10 +8,10 @@
 
 **Link to work:** [tag](#)
 
-### Day 0: May 2, 2020
+### Day 1,2: May 3, 2020 / May 4, 2020
 
 **Today's Progress**: still fixing Css in a Vue-laravel project.
 
-**Thoughts:** I spent my first three days fixing the CSS for a project we are working on.
+**Thoughts:** I spent my first three days in the challenge fixing the CSS for a project we are working on.
 
 **Link to work:** [tag](#)
