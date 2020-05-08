@@ -23,3 +23,18 @@
 **Thoughts:** i have been working with vue for the last 2 months , now i started to learn laravel to be able to create a full app.
 
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+### Day 6: May 7 2020
+
+**Today's Progress**: fixing Css in a Vue-laravel project.
+
+**Thoughts:** I spent the day fixing the CSS for a project we are working on.
+
+**Link to work:** [tag](#)
+
+### Day 7: May 8 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** things are getting to make some sense.
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
