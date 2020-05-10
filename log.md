@@ -38,3 +38,11 @@
 
 **Thoughts:** things are getting to make some sense.
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+
+### Day 8: May 9 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** practiced vee-validate and vform packages.
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
