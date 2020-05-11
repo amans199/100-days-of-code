@@ -46,3 +46,11 @@
 
 **Thoughts:** practiced vee-validate and vform packages.
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+
+### Day 9: May 10 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** Created laravel controller along with database table for users , practiced axios post and get requests.
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
