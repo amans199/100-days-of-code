@@ -37,6 +37,7 @@
 **Today's Progress**: Continue practicing laravel and vue.
 
 **Thoughts:** things are getting to make some sense.
+
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
 
@@ -45,6 +46,7 @@
 **Today's Progress**: Continue practicing laravel and vue.
 
 **Thoughts:** practiced vee-validate and vform packages.
+
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
 
@@ -53,4 +55,23 @@
 **Today's Progress**: Continue practicing laravel and vue.
 
 **Thoughts:** Created laravel controller along with database table for users , practiced axios post and get requests.
+
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+### Day 10: May 11 2020
+
+**Today's Progress**: fixing issues in a laravel-vue project.
+
+**Thoughts:** fixed some issues in the tag project.
+
+**Link to work:** [tag](#)
+
+### Day 11: May 12 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** practiced sweetAlerts - vueProgressBar and done some fixed on the create-user form.
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+
