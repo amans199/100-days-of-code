@@ -74,4 +74,12 @@
 
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
+### Day 12: May 13 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** Created deleteUser functionality , Working on editUser functionality.
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
 
