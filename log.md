@@ -82,4 +82,12 @@
 
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
+### Day 13: May 14 2020
+
+**Today's Progress**: Continue practicing laravel and vue.
+
+**Thoughts:** fix edit-user functionality - pracrice Laravel Passport.
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
 
