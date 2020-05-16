@@ -90,4 +90,19 @@
 
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
+### Day 14: May 15 2020
+
+**Today's Progress**:started practicing bedrock.
+
+**Thoughts:** prepare the environment for bedrock.
+
+**Link to work:** [bedrock-practice](#)
+
+### Day 15: May 16 2020
+
+**Today's Progress**:started practicing animejs.
+
+**Thoughts:** Today I practiced #animejs .. which is a very cool javascript animation engine ... also adding some other js code to help make the animation play along with the scroll ...
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
