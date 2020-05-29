@@ -106,3 +106,18 @@
 
 **Link to work:** [laraVue](https://github.com/amans199/laraVue)
 
+### Day 16: May 28 2020
+
+**Today's Progress**: allow user to add photo to profile.
+
+**Thoughts:** today i learnt how to allow users to add photos to their profile with base64 ...
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
+
+### Day 17: May 29 2020
+
+**Today's Progress**: allow users to edit their photo.
+
+**Thoughts:** Today I continued practicing laravel with vuejs to allow users to add , edit their photos .. and to get the previous photo deleted automaticaly ...
+
+**Link to work:** [laraVue](https://github.com/amans199/laraVue)
